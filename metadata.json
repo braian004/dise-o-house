@@ -1,0 +1,7 @@
+{
+  "name": "ArchiVision",
+  "description": "Professional architectural visualization tool powered by Gemini 2.5. Capture spaces and reimagine them with AI-driven design styles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
